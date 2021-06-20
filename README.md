@@ -30,6 +30,8 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 ```
 ## Contact
 this Regex written and searched by Shaima Jobran if you have any questions please contact 
-Shaima Jobran 
+Shaima Jobran
+ 
 [Github Link](https://github.com/shaimajobran)
+
 [Gist Link](https://gist.github.com/shaimajobran/6b80efd277cf094b401403dd630c7956)
