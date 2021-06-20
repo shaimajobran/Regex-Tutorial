@@ -1,5 +1,5 @@
 # Regex-Tutorial
-# 17 Computer Science for JavaScript: Regex Tutorial
+## (URL) Regex Tutorial
 
 ## Your Task
 
@@ -31,7 +31,13 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 ## Contact
 this Regex written and searched by Shaima Jobran if you have any questions please contact 
 Shaima Jobran
- 
+
 [Github Link](https://github.com/shaimajobran)
 
 [Gist Link](https://gist.github.com/shaimajobran/6b80efd277cf094b401403dd630c7956)
+
+## References 
+
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet
+* https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285
+* https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial
